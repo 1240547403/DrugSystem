@@ -7,14 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MessageProvider" />
-        <module name="TBprovider" />
-        <module name="FeignConsumer" />
-        <module name="GateWay" />
-        <module name="UserLoginProvider" />
-        <module name="UserProvider" />
         <module name="ZBprovider" />
-        <module name="Eureka-Server" />
+        <module name="UserProvider" />
+        <module name="GateWay" />
         <module name="README" />
+        <module name="UserLoginProvider" />
+        <module name="FeignConsumer" />
+        <module name="Eureka-Server" />
+        <module name="TBprovider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

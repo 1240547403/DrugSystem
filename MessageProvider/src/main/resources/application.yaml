@@ -3,9 +3,9 @@ spring:
     name: MessageProvider
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/yaomanagement?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/bind?serverTimezone=UTC
     username: root
-    password: root
+    password: 700168aa
 server:
   port: 8006
 
